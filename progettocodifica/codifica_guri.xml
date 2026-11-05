@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="trasformazione.xsl"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xml:lang="it" xmlns="http://www.tei-c.org/ns/1.0">
+
+        <!-- primo articolo-->
+    <surface>
+        <graphic url='Articolo1parte1.png' width='374' height='520' />
+        <!--header prima pagina primo articolo-->
+        <zone xml:id='imtArea_0' points=' 20,3  36,3  36,15  20,15 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 135,3  256,3  256,16  135,16 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 306,4  370,4  370,14  306,14 ' rendition="default" />
+        <zone xml:id='imtArea_3' points=' 54,68  160,68  160,79  54,79 ' rendition="default" />
+    <!-- prima colonna prima pagina-->
+        <zone xml:id='imtArea_4' points=' 19,80  192,80  192,210  19,210 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 20,211  190,211  190,392  20,392 ' rendition="default" />
+        <zone xml:id='imtArea_6' points=' 20,392  191,392  191,443  20,443 ' rendition="default" />
+        <zone xml:id='imtArea_7' points=' 19,449  191,449  191,513  19,513 ' rendition="default" />
+    <!-- seconda colonna prima pagina-->
+        <zone xml:id='imtArea_8' points=' 198,24  368,24  368,191  198,191 ' rendition="default" />
+        <zone xml:id='imtArea_9' points=' 197,192  367,192  367,263  197,263 ' rendition="default" />
+        <zone xml:id='imtArea_10' points=' 197,265  367,265  367,373  197,373 ' rendition="default" />
+        <zone xml:id='imtArea_11' points=' 197,374  367,374  367,483  197,483 ' rendition="default" />
+        <zone xml:id='imtArea_12' points=' 197,485  367,485  367,511  197,511 ' rendition="default" />
+    </surface>
+
+    <surface>
+        <graphic url='Articolo1parte2.png' width='384' height='552' />
+    <!--header seconda pagina-->
+        <zone xml:id='imtArea_0' points=' 8,5  68,5  68,17  8,17 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 130,5  256,5  256,16  130,16 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 360,6  375,6  375,16  360,16 ' rendition="default" />
+    <!-- prima colonna seconda Pagina-->
+        <zone xml:id='imtArea_3' points=' 9,27  189,27  189,57  9,57 ' rendition="default" />
+        <zone xml:id='imtArea_4' points=' 2,58  190,58  190,196  2,196 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 2,196  190,196  190,219  2,219 ' rendition="default" />
+        <zone xml:id='imtArea_6' points=' 9,220  190,220  190,341  9,341 ' rendition="default" />
+        <zone xml:id='imtArea_7' points=' 10,343  190,343  190,542  10,542 ' rendition="default" />
+    <!-- seconda colonna seconda Pagina-->
+        <zone xml:id='imtArea_0' points=' 195,25  378,25  378,232  195,232 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 196,234  376,234  376,294  196,294 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 197,295  376,295  376,509  197,509 ' rendition="default" />
+        <zone xml:id='imtArea_3' points=' 195,512  377,512  377,540  195,540 ' rendition="default" />
+    </surface>
+
+    <surface>
+        <graphic url='Articolo1parte3.png' width='364' height='525' />
+    <!--header terza pagina-->
+        <zone xml:id='imtArea_0' points=' 7,4  23,4  23,14  7,14 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 302,5  360,5  360,15  302,15 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 124,4  245,4  245,14  124,14 ' rendition="default" />
+    <!-- prima colonna terza Pagina-->
+        <zone xml:id='imtArea_3' points=' 6,26  183,26  183,76  6,76 ' rendition="default" />
+        <zone xml:id='imtArea_4' points=' 6,78  182,78  182,284  6,284 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 7,285  182,285  182,371  7,371 ' rendition="default" />
+    </surface>
+
+    <!-- secondo articolo -->
+    <surface>
+        <graphic url='Articolo2parte1.png' width='364' height='525' />
+    <!--header prima pagina secondo articolo-->
+        <zone xml:id='imtArea_0' points=' 6,5  22,5  22,14  6,14 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 126,6  245,6  245,15  126,15 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 301,5  360,5  360,14  301,14 ' rendition="default" />
+    <!-- prima colonna prima pagina-->
+        <zone xml:id='imtArea_3' points=' 81,379  107,379  107,386  81,386 ' rendition="default" />
+        <zone xml:id='imtArea_4' points=' 5,388  181,388  181,445  5,445 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 5,446  182,446  182,476  5,476 ' rendition="default" />
+        <zone xml:id='imtArea_6' points=' 6,478  182,478  182,506  6,506 ' rendition="default" />
+    <!-- seconda colonna prima pagina-->
+        <zone xml:id='imtArea_0' points=' 186,24  362,24  362,40  186,40 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 186,41  360,41  360,68  186,68 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 188,70  362,70  362,98  188,98 ' rendition="default" />
+        <zone xml:id='imtArea_3' points=' 188,99  362,99  362,121  188,121 ' rendition="default" />
+        <zone xml:id='imtArea_4' points=' 189,122  363,122  363,158  189,158 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 188,159  361,159  361,203  188,203 ' rendition="default" />
+        <zone xml:id='imtArea_6' points=' 188,204  362,204  362,262  188,262 ' rendition="default" />
+        <zone xml:id='imtArea_7' points=' 188,263  362,263  362,312  188,312 ' rendition="default" />
+        <zone xml:id='imtArea_8' points=' 188,314  362,314  362,356  188,356 ' rendition="default" />
+        <zone xml:id='imtArea_9' points=' 187,358  363,358  363,386  187,386 ' rendition="default" />
+        <zone xml:id='imtArea_10' points=' 186,389  359,389  359,469  186,469 ' rendition="default" />
+        <zone xml:id='imtArea_11' points=' 187,470  360,470  360,521  187,521 ' rendition="default" />
+    </surface>
+    
+    <surface>
+        <graphic url='Articolo2parte2.png' width='363' height='518' />
+    <!--header seconda pagina-->
+        <zone xml:id='imtArea_0' points=' 4,2  62,2  62,15  4,15 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 122,3  243,3  243,13  122,13 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 340,3  358,3  358,12  340,12 ' rendition="default" />
+    <!-- prima colonna seconda pagina-->
+        <zone xml:id='imtArea_3' points=' 5,23  180,23  180,81  5,81 ' rendition="default" />
+        <zone xml:id='imtArea_4' points=' 5,82  180,82  180,200  5,200 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 6,212  179,212  179,263  6,263 ' rendition="default" />
+        <zone xml:id='imtArea_6' points=' 7,263  180,263  180,294  7,294 ' rendition="default" />
+        <zone xml:id='imtArea_7' points=' 7,295  180,295  180,337  7,337 ' rendition="default" />
+        <zone xml:id='imtArea_8' points=' 8,338  182,338  182,513  8,513 ' rendition="default" />
+    <!-- seconda colonna seconda Pagina-->
+        <zone xml:id='imtArea_0' points=' 183,22  358,22  358,75  183,75 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 184,76  358,76  358,139  184,139 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 186,141  359,141  359,191  186,191 ' rendition="default" />
+        <zone xml:id='imtArea_3' points=' 185,193  358,193  358,221  185,221 ' rendition="default" />
+        <zone xml:id='imtArea_4' points=' 186,221  358,221  358,264  186,264 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 186,265  359,265  359,299  186,299 ' rendition="default" />
+        <zone xml:id='imtArea_6' points=' 186,301  359,301  359,338  186,338 ' rendition="default" />
+        <zone xml:id='imtArea_7' points=' 319,339  342,339  342,345  319,345 ' rendition="default" />
+    </surface>
+
+    <!-- bibliografie -->
+    <surface>
+        <graphic url='bibliografie.png' width='342' height='480' />
+    <!--header bibliografie-->
+        <zone xml:id='imtArea_0' points=' 7,2  60,2  60,12  7,12 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 111,2  223,2  223,10  111,10 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 321,3  334,3  334,9  321,9 ' rendition="default" />
+        <zone xml:id='imtArea_3' points=' 62,23  116,23  116,30  62,30 ' rendition="default" />
+    <!-- prima bibliografia-->
+    <!-- prima colonna-->
+        <zone xml:id='imtArea_4' points=' 6,31  169,31  169,52  6,52 ' rendition="default" />
+        <zone xml:id='imtArea_5' points=' 6,52  170,52  170,477  6,477 ' rendition="default" />
+    <!-- seconda colonna-->
+        <zone xml:id='imtArea_0' points=' 174,20  336,20  336,42  174,42 ' rendition="default" />
+    <!-- seconda bibliografia-->
+        <zone xml:id='imtArea_0' points=' 174,46  336,46  336,61  174,61 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 173,62  337,62  337,314  173,314 ' rendition="default" />
+    </surface>
+    <!-- notizie -->
+    <surface>
+        <graphic url='Notizie.png' width='375' height='547' />
+    <!--header notizie-->
+        <zone xml:id='imtArea_0' points=' 6,5  20,5  20,13  6,13 ' rendition="default" />
+        <zone xml:id='imtArea_1' points=' 128,4  252,4  252,15  128,15 ' rendition="default" />
+        <zone xml:id='imtArea_2' points=' 312,6  372,6  372,15  312,15 ' rendition="default" />
+        <zone xml:id='imtArea_3' points=' 262,354  299,354  299,362  262,362 ' rendition="default" />
+    <!-- prima notizia -->
+        <zone xml:id='imtArea_4' points=' 190,365  373,365  373,398  190,398 ' rendition="default" />
+    <!-- seconda notizia -->
+        <zone xml:id='imtArea_5' points=' 191,398  372,398  372,439  191,439 ' rendition="default" />
+    <!-- terza notizia -->
+        <zone xml:id='imtArea_6' points=' 190,441  370,441  370,518  190,518 ' rendition="default" />
+        <zone xml:id='imtArea_7' points=' 190,519  370,519  370,541  190,541 ' rendition="default" />
+    </surface>
+
+</TEI>
